@@ -3,7 +3,9 @@
 The goal of the program is to perform a calculation for a patient's 
 diagnosis and present recommendations for treatment based on a blood test and a number of questions to the patient."
 
-# Steps:"
+The program allows for a comfortable and simple Gui for the doctor to sign up and Login to the app and then show the patient appropriate treatment depending on his blood test and other parameters.
+
+# Steps to calculate the patient appropriate treatment :
 
 1.Add a patient to the system with at least 4 details: ID, name, age, and gender."
 
