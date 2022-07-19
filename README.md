@@ -15,4 +15,20 @@ diagnosis and present recommendations for treatment based on a blood test and a 
 
 5.To save the diagnosis and recommendations,click Save Treatment and the file will be saved in an Excel file along with the patient's ID."
 
-5.Thank you :)"
+
+# Login page:
+
+![Login page](https://user-images.githubusercontent.com/93651794/179726465-7fa9f7b2-4742-4f9f-8eaa-5ad32d40c42d.png)
+
+# Create account page:
+
+![Create account](https://user-images.githubusercontent.com/93651794/179726566-da22ac6a-f725-4041-9e8b-2730a558aea1.png)
+
+# main page:
+
+![Screenshot 2022-07-18 165824](https://user-images.githubusercontent.com/93651794/179726713-fb3857af-d7a5-4f90-8361-464173eb519e.png)
+
+
+
+
+Thank you :)
